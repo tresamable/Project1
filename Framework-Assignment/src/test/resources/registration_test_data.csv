@@ -1,0 +1,2 @@
+title,first_name,last_name,email,password,dob,newsletter,offers,address_first_name,address_last_name,address_company,address_line1,address_line2,address_city,address_state,zip,country,additional_info,home_phone,mobile_pnone,address_alias,expected_login,error
+Mr,firstname,lastname,sample_email<RANDOM>@gmail.com,password,2/4/1990,FALSE,FALSE,firstname,lastname,company_Name,address_line1,address_line2,address_city,Connecticut,30303,United States,additional info,1243456,23454,my Home,TRUE,
